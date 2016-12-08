@@ -1,0 +1,9 @@
+"/example":
+  - method: get
+    callback: http://localhost:8888/example
+    authentication: BasicAuthenticationExample
+  - method: post
+    callback: http://localhost:8888/example
+    authentication: BasicAuthenticationExample
+
+  
